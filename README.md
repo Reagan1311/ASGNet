@@ -1,6 +1,9 @@
 # ASGNet
 The code is for the paper "Adaptive Prototype Learning and Allocation for Few-Shot Segmentation" (accepted to CVPR 2021) [[arxiv](https://arxiv.org/abs/2104.01893)]
-<img src="figure/comparison.png" width="511.4" height="400">
+
+<p align="left">
+  <img src="figure/comparison.png" width="511.4" height="400">
+</p>
 
 ## Overview
 + `data/` includes config files and train/validation list files
