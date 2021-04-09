@@ -37,9 +37,9 @@ sh tool/test.sh pascal asgnet split0_resnet50
 ## Citation
 Please consider citing the paper if you find it useful:
 ```
-@inproceedings{li2021asgnet,
+@inproceedings{li2021AdaptivePL,
   title={Adaptive Prototype Learning and Allocation for Few-Shot Segmentation},
-  author={Li, Gen and Jampani, Varun and Sevilla-Lara, Laura and Sun, Deqing and Kim, Jonghyun and Kim, Joongkyu},
+  author={Gen Li and Varun Jampani and Laura Sevilla-Lara and Deqing Sun and Jonghyun Kim and Joongkyu Kim},
   booktitle={CVPR},
   year={2021}
 }
